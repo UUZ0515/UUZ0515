@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning cqupt
+- 🌱 I’m currently learning c
 - 👯 I’m looking to collaborate on game development
 - 🤔 I’m looking for help with code learning
 - 💬 Ask me about ...
